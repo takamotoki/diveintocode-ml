@@ -1,1 +1,3 @@
 ルートフォルダ移行テスト
+
+test from master to local
