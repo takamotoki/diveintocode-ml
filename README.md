@@ -11,7 +11,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
   - [Week2 授業前課題1 小麦とチェス盤問題](https://github.com/takamotoki/diveintocode-ml/blob/master/Week2/Week2_%E6%8E%88%E6%A5%AD%E5%89%8D%E8%AA%B2%E9%A1%8C1_%E5%B0%8F%E9%BA%A6%E3%81%A8%E3%83%81%E3%82%A7%E3%82%B9%E7%9B%A4%E5%95%8F%E9%A1%8C.ipynb)
   - [Week2 授業前課題2 ダミーデータの作成](https://github.com/takamotoki/diveintocode-ml/blob/master/Week2/Week2_%E6%8E%88%E6%A5%AD%E5%89%8D%E8%AA%B2%E9%A1%8C2_%E3%83%80%E3%83%9F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E4%BD%9C%E6%88%90.ipynb)
   - [Week2 授業前課題3 行列積のスクラッチ](https://github.com/takamotoki/diveintocode-ml/blob/master/Week2/Week2_%E6%8E%88%E6%A5%AD%E5%89%8D%E8%AA%B2%E9%A1%8C3_%E8%A1%8C%E5%88%97%E7%A9%8D%E3%81%AE%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81.ipynb)
-  - [Week2 授業前課題4 任意課題ダーツ投げ問題](https://github.com/takamotoki/diveintocode-ml/blob/master/Week2/Week2_%E6%8E%88%E6%A5%AD%E5%89%8D%E8%AA%B2%E9%A1%8C4_%E4%BB%BB%E6%84%8F%E8%AA%B2%E9%A1%8C%E3%83%80%E3%83%BC%E3%83%84%E6%8A%95%E3%81%92%E5%95%8F%E9%A1%8C.ipynb)
+  - [Week2 授業前課題4 （任意課題） ダーツ投げ問題](https://github.com/takamotoki/diveintocode-ml/blob/master/Week2/Week2_%E6%8E%88%E6%A5%AD%E5%89%8D%E8%AA%B2%E9%A1%8C4_%E4%BB%BB%E6%84%8F%E8%AA%B2%E9%A1%8C%E3%83%80%E3%83%BC%E3%83%84%E6%8A%95%E3%81%92%E5%95%8F%E9%A1%8C.ipynb)
   - [Week2 授業課題1 二次元配列と勾配問題](https://github.com/takamotoki/diveintocode-ml/blob/master/Week2/Week2_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C1_%E4%BA%8C%E6%AC%A1%E5%85%83%E9%85%8D%E5%88%97%E3%81%A8%E5%8B%BE%E9%85%8D%E5%95%8F%E9%A1%8C.ipynb)
   - [Week2 授業課題2 富士下山問題](https://github.com/takamotoki/diveintocode-ml/blob/master/Week2/Week2_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C2_%E5%AF%8C%E5%A3%AB%E4%B8%8B%E5%B1%B1%E5%95%8F%E9%A1%8C.ipynb)
 - ### Week3 探索的データ分析
