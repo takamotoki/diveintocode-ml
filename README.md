@@ -36,7 +36,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint8 アンサンブル学習](https://github.com/takamotoki/diveintocode-ml/blob/master/Sprint/Term1/Sprint8_MLScratch_Ensemble.ipynb)
 
 ## Term2 深層学習
-- [Sprint9 深層学習スクラッチ ニューラルネットワーク]()
+- [Sprint9 深層学習スクラッチ ニューラルネットワーク](https://github.com/takamotoki/diveintocode-ml/blob/master/Sprint/Term2/Sprint09_DLScratch_NeuralNetwork.ipynb)
 - [Sprint10 深層学習スクラッチ ディープニューラルネットワーク]()
 - [Sprint11 深層学習スクラッチ 畳み込みニューラルネットワーク1]()
 - [Sprint12 深層学習スクラッチ 畳み込みニューラルネットワーク2]()
