@@ -43,7 +43,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint13 ディープラーニングフレームワーク1](https://github.com/takamotoki/diveintocode-ml/blob/master/Sprint/Term2/Sprint13_DLFrameWork1.ipynb)
 - [Sprint14 ディープラーニングフレームワーク2](https://github.com/takamotoki/diveintocode-ml/blob/master/Sprint/Term2/Sprint14_DLFrameWork2.ipynb)
 - [Sprint15 論文読解入門](https://github.com/takamotoki/diveintocode-ml/blob/master/Sprint/Term2/Sprint15_ReadingResearchPaper.ipynb)
-- [Sprint16 論文紹介]()
+- [Sprint16 論文紹介](https://speakerdeck.com/takamotoki/sprint-lun-wen-shao-jie)
 - [Sprint17 公開されている実装を動かす](https://github.com/takamotoki/diveintocode-ml/blob/master/Sprint/Term2/Sprint17_Open-SourceImplementation.ipynb)
 - [Sprint18 データセット作成](https://github.com/takamotoki/diveintocode-ml/blob/master/Sprint/Term2/Sprint18_Data_Augmentation.ipynb)
 - [Sprint19 セグメンテーション1](https://github.com/takamotoki/diveintocode-ml/blob/master/Sprint/Term2/Sprint19_U-Net.ipynb)
